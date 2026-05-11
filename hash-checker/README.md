@@ -1,3 +1,5 @@
+![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/python-tools?label=hash-checker)
+
 # Hash Checker
 
 Hash Checker is a lightweight, dependency‑free Python command‑line tool for computing cryptographic hashes and verifying file integrity. It supports a wide range of hashing algorithms, including SHA‑2, SHA‑3, and SHAKE, and provides a clean, menu‑driven interface suitable for both beginners and experienced users.
