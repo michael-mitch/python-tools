@@ -14,9 +14,20 @@ This suite is intended for:
 ## Included Tools
 
 ### 🔹 Hash Checker
-A file integrity verification tool that computes cryptographic hashes (MD5, SHA‑1, SHA‑256, SHA‑512, SHA‑3, SHAKE, etc.) and optionally compares them to a known hash.
-
+A file integrity verification tool that computes cryptographic hashes and optionally compares them to a known hash.  
 Located in: `hash-checker/`
+
+### 🔹 Password Generator
+A simple tool for generating secure, random passwords.  
+Located in: `password-generator/`
+
+### 🔹 Web Scraper
+A minimal example scraper for fetching and parsing webpage content.  
+Located in: `web-scraper/`
+
+### 🔹 File Comparator
+A utility for comparing two files and checking if they match.  
+Located in: `file-comparator/`
 
 ---
 
@@ -33,9 +44,12 @@ Located in: `hash-checker/`
 ## Planned Tools
 
 - Folder hashing utility  
-- File comparison tool  
-- Password generator  
-- Simple web scraper  
 - Log analyzer  
-- File integrity monitor
-  
+- File integrity monitor  
+- CLI text utilities  
+
+---
+
+## License
+
+MIT License — see the LICENSE file for details.
